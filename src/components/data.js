@@ -949,3 +949,457 @@ export const category = [
 
    
 ];
+
+
+
+
+export  const filtercat =[
+
+
+ ' İlgili Kategoriler',
+ ' Sneaker',
+ ' Yürüyüş Ayakkabısı',
+ ' Basketbol Ayakkabısı',
+ ' T-Shirt',
+ ' Koşu & Antrenman Ayakkabısı',
+ ' Spor T-shirt',
+  'Eşofman Takımı',
+  'Sweatshirt',
+ ' Kapri&Bermuda',
+ ' Şort',
+ ' Spor Şort',
+ ' Spor Ceket',
+ ' Tenis Ayakkabısı',
+ ' Casual Ayakkabı',
+ ' Outdoor Ayakkabı',
+ ' Spor Yağmurluk & Rüzgarlık',
+  'Spor Sweatshirt',
+ ' Ceket',
+  'Eşofman Altı',
+  'Spor Eşofman Altı',
+ ' Fitness Ayakkabısı',
+ ' Mont',
+ ' Spor Mont',
+ ' Krampon',
+ ' Halı Saha Ayakkabısı',
+  'Terlik',
+  'Sırt Çantası',
+  'Polo Yaka T-shirt',
+  'Forma',
+  'Şapka',
+  'Yağmurluk & Rüzgarlık',
+  'Pantolon',
+  'Spor Çorap',
+  'Spor Çantası',
+  'Sporcu Saç Bandı',
+  'Spor Bileklik',
+ ' Güneş Gözlüğü',
+ ' Atlet',
+ ' Spor Atlet',
+ ' Taç&Saç Bandı',
+  'Çorap',
+ 'Bel Çantası',
+  'Spor Şapka',
+  'Tayt',
+  'Spor Tayt',
+  'Spor Kolluk',
+  'Futbol Forması',
+  'Okul Çantası',
+  'Omuz Çantası',
+
+
+
+
+]
+
+
+
+
+export const jinsiyet =[
+
+
+'erkek' , 'kadin' ,'cocuk'
+
+]
+
+
+
+
+
+export const selectoptions =[
+
+'all',
+'en dusuk fiyat',
+'en yüksek fiyat',
+'en az stars',
+'en yüksek stars',
+'en yüksek satilan',
+'en dusuk satilan',
+
+
+
+]
+
+
+
+
+export const products = [
+
+{
+  id: 1,
+  name:'shoes148 ',
+
+  colors:'4' ,
+  sizes:'3' ,
+  image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_q1K8lNEgvbJ7851TLitUzbh824soQGeMgC5JVe7K0JR86jKQYgmmaYk_P4Z4LjezD4c&usqp=CAU',
+  price:'37.00' ,
+  category:'nike' ,
+  kargobedava:false ,
+  hizliteslim:false ,
+  stars: 4,
+  puan: 133,
+
+
+},
+
+//--2-
+
+{
+  id: 2,
+  name:'HEADBAND Frotka',
+  
+
+  colors:'6' ,
+  sizes:'3' ,
+  image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL_XT7WK6DithpP3Lso2A_-gvsMRx-MsTUyNbPDhZTyZ17qtYuU07So2DvTFObxa22ji8&usqp=CAU',
+  price:'341.00' ,
+  category:'nike' ,
+  kargobedava:true ,
+  hizliteslim:true ,
+  stars: 3.5,
+  puan: 33,
+
+
+},
+
+
+
+//---3----
+
+
+{
+  id: 3,
+  name:'brand honde2',
+
+  colors:'3' ,
+  sizes:'3' ,
+  image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmZCmvIL9gONQuu-zZ9oPftyRz7ePLMc41VA&usqp=CAU',
+  price:'134' ,
+  category:'nike' ,
+  kargobedava:false ,
+  hizliteslim:false ,
+  stars:3.5,
+  puan: 244,
+
+
+},
+
+
+
+
+
+//-4----
+
+{
+  id: 4,
+  name:' Swoosh Headband N.000',
+
+  colors:'6' ,
+  sizes:'2' ,
+  image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeMbDhp9K8258i53T6ZmkM89gwVfjQReRD7Q&usqp=CAU',
+  price:'155' ,
+  category:'nike' ,
+  kargobedava:true ,
+  hizliteslim:true ,
+  stars: 5.5,
+  puan: 66,
+
+
+},
+
+
+
+{
+  id: 3,
+  name:'brand honde2',
+
+  colors:'3' ,
+  sizes:'3' ,
+  image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmZCmvIL9gONQuu-zZ9oPftyRz7ePLMc41VA&usqp=CAU',
+  price:'134' ,
+  category:'nike' ,
+  kargobedava:false ,
+  hizliteslim:false ,
+  stars:3.5,
+  puan: 244,
+
+
+},
+{
+  id: 3,
+  name:'brand honde2',
+
+  colors:'3' ,
+  sizes:'3' ,
+  image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmZCmvIL9gONQuu-zZ9oPftyRz7ePLMc41VA&usqp=CAU',
+  price:'134' ,
+  category:'nike' ,
+  kargobedava:false ,
+  hizliteslim:false ,
+  stars:3.5,
+  puan: 244,
+
+
+},
+{
+  id: 3,
+  name:'brand honde2',
+
+  colors:'3' ,
+  sizes:'3' ,
+  image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmZCmvIL9gONQuu-zZ9oPftyRz7ePLMc41VA&usqp=CAU',
+  price:'134' ,
+  category:'nike' ,
+  kargobedava:false ,
+  hizliteslim:false ,
+  stars:3.5,
+  puan: 244,
+
+
+},
+{
+  id: 3,
+  name:'brand honde2',
+
+  colors:'3' ,
+  sizes:'3' ,
+  image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmZCmvIL9gONQuu-zZ9oPftyRz7ePLMc41VA&usqp=CAU',
+  price:'134' ,
+  category:'nike' ,
+  kargobedava:false ,
+  hizliteslim:false ,
+  stars:3.5,
+  puan: 244,
+
+
+},
+{
+  id: 3,
+  name:'brand honde2',
+
+  colors:'3' ,
+  sizes:'3' ,
+  image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmZCmvIL9gONQuu-zZ9oPftyRz7ePLMc41VA&usqp=CAU',
+  price:'134' ,
+  category:'nike' ,
+  kargobedava:false ,
+  hizliteslim:false ,
+  stars:3.5,
+  puan: 244,
+
+
+},
+{
+  id: 3,
+  name:'brand honde2',
+
+  colors:'3' ,
+  sizes:'3' ,
+  image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmZCmvIL9gONQuu-zZ9oPftyRz7ePLMc41VA&usqp=CAU',
+  price:'134' ,
+  category:'nike' ,
+  kargobedava:false ,
+  hizliteslim:false ,
+  stars:3.5,
+  puan: 244,
+
+
+},
+{
+  id: 3,
+  name:'brand honde2',
+
+  colors:'3' ,
+  sizes:'3' ,
+  image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmZCmvIL9gONQuu-zZ9oPftyRz7ePLMc41VA&usqp=CAU',
+  price:'134' ,
+  category:'nike' ,
+  kargobedava:false ,
+  hizliteslim:false ,
+  stars:3.5,
+  puan: 244,
+
+
+},
+{
+  id: 3,
+  name:'brand honde2',
+
+  colors:'3' ,
+  sizes:'3' ,
+  image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmZCmvIL9gONQuu-zZ9oPftyRz7ePLMc41VA&usqp=CAU',
+  price:'134' ,
+  category:'nike' ,
+  kargobedava:false ,
+  hizliteslim:false ,
+  stars:3.5,
+  puan: 244,
+
+
+},
+{
+  id: 3,
+  name:'brand honde2',
+
+  colors:'3' ,
+  sizes:'3' ,
+  image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmZCmvIL9gONQuu-zZ9oPftyRz7ePLMc41VA&usqp=CAU',
+  price:'134' ,
+  category:'nike' ,
+  kargobedava:false ,
+  hizliteslim:false ,
+  stars:3.5,
+  puan: 244,
+
+
+},
+
+
+
+
+{
+  id: 4,
+  name:' Swoosh Headband N.000',
+
+  colors:'6' ,
+  sizes:'2' ,
+  image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeMbDhp9K8258i53T6ZmkM89gwVfjQReRD7Q&usqp=CAU',
+  price:'155' ,
+  category:'nike' ,
+  kargobedava:true ,
+  hizliteslim:true ,
+  stars: 5.5,
+  puan: 66,
+
+
+},{
+  id: 4,
+  name:' Swoosh Headband N.000',
+
+  colors:'6' ,
+  sizes:'2' ,
+  image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeMbDhp9K8258i53T6ZmkM89gwVfjQReRD7Q&usqp=CAU',
+  price:'155' ,
+  category:'nike' ,
+  kargobedava:true ,
+  hizliteslim:true ,
+  stars: 5.5,
+  puan: 66,
+
+
+},{
+  id: 4,
+  name:' Swoosh Headband N.000',
+
+  colors:'6' ,
+  sizes:'2' ,
+  image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeMbDhp9K8258i53T6ZmkM89gwVfjQReRD7Q&usqp=CAU',
+  price:'155' ,
+  category:'nike' ,
+  kargobedava:true ,
+  hizliteslim:true ,
+  stars: 5.5,
+  puan: 66,
+
+
+},{
+  id: 4,
+  name:' Swoosh Headband N.000',
+
+  colors:'6' ,
+  sizes:'2' ,
+  image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeMbDhp9K8258i53T6ZmkM89gwVfjQReRD7Q&usqp=CAU',
+  price:'155' ,
+  category:'nike' ,
+  kargobedava:true ,
+  hizliteslim:true ,
+  stars: 5.5,
+  puan: 66,
+
+
+},{
+  id: 4,
+  name:' Swoosh Headband N.000',
+
+  colors:'6' ,
+  sizes:'2' ,
+  image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeMbDhp9K8258i53T6ZmkM89gwVfjQReRD7Q&usqp=CAU',
+  price:'155' ,
+  category:'nike' ,
+  kargobedava:true ,
+  hizliteslim:true ,
+  stars: 5.5,
+  puan: 66,
+
+
+},{
+  id: 4,
+  name:' Swoosh Headband N.000',
+
+  colors:'6' ,
+  sizes:'2' ,
+  image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeMbDhp9K8258i53T6ZmkM89gwVfjQReRD7Q&usqp=CAU',
+  price:'155' ,
+  category:'nike' ,
+  kargobedava:true ,
+  hizliteslim:true ,
+  stars: 5.5,
+  puan: 66,
+
+
+},{
+  id: 4,
+  name:' Swoosh Headband N.000',
+
+  colors:'6' ,
+  sizes:'2' ,
+  image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeMbDhp9K8258i53T6ZmkM89gwVfjQReRD7Q&usqp=CAU',
+  price:'155' ,
+  category:'nike' ,
+  kargobedava:true ,
+  hizliteslim:true ,
+  stars: 5.5,
+  puan: 66,
+
+
+},{
+  id: 4,
+  name:' Swoosh Headband N.000',
+
+  colors:'6' ,
+  sizes:'2' ,
+  image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeMbDhp9K8258i53T6ZmkM89gwVfjQReRD7Q&usqp=CAU',
+  price:'155' ,
+  category:'nike' ,
+  kargobedava:true ,
+  hizliteslim:true ,
+  stars: 5.5,
+  puan: 66,
+
+
+},
+
+
+
+
+]

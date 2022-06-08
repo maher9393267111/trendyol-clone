@@ -36,3 +36,87 @@ background-color: white;
   width: 41%;
   border: 2px solid rgb(179, 122, 101);
 }
+
+
+
+.fixedme{
+  font-size: 13px;
+  font-family: source_sans_proregular!important;
+  visibility: visible;
+  margin: 0;
+  padding: 0;
+  display: block;
+  position: fixed;
+  margin-top: 10px;
+  top: auto;
+  bottom: 0px;
+  margin-left: 10px;
+  width: 250px;
+}
+
+
+.notfixed{
+
+  font-size: 13px;
+  font-family: source_sans_proregular!important;
+  visibility: visible;
+  margin: 0;
+  padding: 0;
+  display: block;
+  position: relative;
+  top: auto;
+  bottom: auto;
+  margin-left: 10px;
+
+
+}
+
+
+.ant-card-cover > img{
+
+  height: 240px;
+  object-fit: contain;
+
+
+}
+
+.circle1{
+  background-image: linear-gradient(to right, #3023ae 0%, #53a0fd 48%, #b4ec51 101%);
+  width: 12px;
+    height: 12px;
+    border: solid 1px #ffffff;
+    background-color: pink;
+    border-radius: 50%;
+}
+
+.circle2{
+  background-image: linear-gradient(to right, #6bceb4 0%, #f98cc2 48%, #fff781 101%);
+  z-index: 1;
+  margin-left: -12px;
+
+  width: 12px;
+  height: 12px;
+  border: solid 1px #ffffff;
+  background-color: pink;
+  border-radius: 50%;
+
+}
+
+
+.fa-star{
+
+  
+  color:red
+}
+
+.her > .fa-heart{
+  background-color: white;
+  
+}
+
+.heart-parent{
+  top: -263px;
+    right: -24px;
+    background: azure;
+    border-radius: 28px;
+}
